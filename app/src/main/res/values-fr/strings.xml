@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Paramètres</string>
+    <string name="add">Ajouter</string>
+    <string name="cancel">Annuler</string>
+    <string name="city">VIlle</string>
+    <string name="country">Pays</string>
+    <string name="date">Date</string>
+    <string name="emptyAddFormMessage">Veuillez remplir le formulaire</string>
+    <string name="errorMessage">Une erreur est survenue</string>
+    <string name="pressure">Pression</string>
+    <string name="refresh">Actualiser</string>
+    <string name="remove">Supprimer</string>
+    <string name="removeTitle">SUPPRIMER ?</string>
+    <string name="removed">supprimé</string>
+    <string name="retrieving">Raffraichissement</string>
+    <string name="temperature">Température</string>
+    <string name="wind">Vent</string>
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="accountError">Une erreur est survenue à la création du compte</string>
+    <string name="accountExists">Le compte existe déjà</string>
+    <string name="accountSuccess">Création du compte réussie</string>
+    <string name="added">Ajouté</string>
+    <string name="creatingAccount">Création du compte</string>
+    <string name="freq_summary">Intervalle de temps entre les mises à jour (en secondes)</string>
+    <string name="freq_title">Intervalle</string>
+    <string name="refreshSettings">Paramètres de Mise à jour</string>
+    <string name="settings">Paramètres</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="updated">Mis à jour</string>
+    <string name="updating">Mise à jour de </string>
+</resources>

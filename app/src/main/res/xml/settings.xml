@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/refreshSettings">
+       <EditTextPreference
+           android:key="pref_freq_key"
+           android:inputType="number"
+           android:title="@string/freq_title"
+           android:summary="@string/freq_summary"
+           android:persistent="true"
+           android:defaultValue="5"/>
+    </PreferenceCategory>
+    <CheckBoxPreference
+        android:key="first_launch_key"
+        android:visibility="invisible"
+        android:defaultValue="true"
+        />
+</PreferenceScreen>
